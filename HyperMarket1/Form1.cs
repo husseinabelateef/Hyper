@@ -14,8 +14,11 @@ namespace HyperMarket1
     public partial class AdminForm : Form
     {
         Manager manager = new Manager();
+<<<<<<< HEAD
        
          
+=======
+>>>>>>> e721efa90ed922f1fe32a885158a8917a53b3e0a
         public AdminForm()
         {
             InitializeComponent();
@@ -99,6 +102,7 @@ namespace HyperMarket1
 
         private void CashierAddButton_Click(object sender, EventArgs e)
         {
+<<<<<<< HEAD
             List<string> msg = new List<string>();
             if (!IsValidPhone(CashierPhoneNumber.Text))
             {
@@ -190,6 +194,19 @@ namespace HyperMarket1
         private void CashierDataGridView_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
 
+=======
+            if (CashierNameTxtBox.Text != "" && CashierPwdTxtBox.Text != "" &&
+               CashierUsrNameTxtBox.Text != "" && CashierSalaryTxtBox.Text != "" &&
+                CashierPhoneNumber.Text != "" && CahshierWorkingHourTxtBox.Text != "")
+            {
+                List<String> CashierPhones = new List<String>();
+                CashierPhones = CashierPhoneNumber.Text.Split('\n').ToList();
+                Cashier cashier = new Cashier(CashierNameTxtBox.Text, CashierUsrNameTxtBox.Text, CashierPwdTxtBox.Text, int.Parse(CahshierWorkingHourTxtBox.Text), CashierPhones, float.Parse(CashierSalaryTxtBox.Text));
+                CashierIdTxtBox.Text = cashier.ID.ToString();
+                manager.AddCashier(cashier);
+            }
+            CashierDataGridView.DataSource = Market.market.Cashiers;
+>>>>>>> e721efa90ed922f1fe32a885158a8917a53b3e0a
         }
     }
 }

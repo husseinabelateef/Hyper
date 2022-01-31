@@ -87,7 +87,10 @@
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
     </Compile>
+<<<<<<< HEAD
     <None Include="Properties\DataSources\Cashier.datasource" />
+=======
+>>>>>>> e721efa90ed922f1fe32a885158a8917a53b3e0a
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
