@@ -1,0 +1,31 @@
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.AssemblyReference.cache
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.SuggestedBindingRedirects.cache
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.Properties.Resources.resources
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.GenerateResource.cache
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.CoreCompileInputs.cache
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\HyperMarket1.exe.config
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\HyperMarket1.exe
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\HyperMarket1.pdb
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.exe
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.pdb
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\Bunifu.UI.WinForms.1.5.3.dll
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\Guna.UI.dll
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\Bunifu.Licensing.dll
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.AdminForm.resources
+C:\Users\F\source\repos\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.CopyComplete
+D:\New folder\HyperMarket1\HyperMarket1\bin\Debug\HyperMarket1.exe.config
+D:\New folder\HyperMarket1\HyperMarket1\bin\Debug\HyperMarket1.exe
+D:\New folder\HyperMarket1\HyperMarket1\bin\Debug\HyperMarket1.pdb
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.AssemblyReference.cache
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.SuggestedBindingRedirects.cache
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.AdminForm.resources
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.Properties.Resources.resources
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.GenerateResource.cache
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.CoreCompileInputs.cache
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.csproj.CopyComplete
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.exe
+D:\New folder\HyperMarket1\HyperMarket1\obj\Debug\HyperMarket1.pdb
+D:\New folder\HyperMarket1\HyperMarket1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.dll
+D:\New folder\HyperMarket1\HyperMarket1\bin\Debug\Bunifu.Licensing.dll
+D:\New folder\HyperMarket1\HyperMarket1\bin\Debug\Bunifu.UI.WinForms.BunifuDatePicker.xml

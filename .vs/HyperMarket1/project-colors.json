@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ed4edfda-6ce8-4cb0-bcba-d841f79d7c86": {
+      "ProjectGuid": "ed4edfda-6ce8-4cb0-bcba-d841f79d7c86",
+      "DisplayName": "HyperMarket1",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
